@@ -1,7 +1,7 @@
 {
   "name": "octocat-memory-game",
   "description": "Memory game with Octocats",
-  "version": "0.0.1",
+  "version": "3.1.4",
   "dependencies": {
     "debug": "3.1.4",
     "ejs": "^2.5.6",
